@@ -1,0 +1,13 @@
+				  Gapertium
+			  CLI Front-end for Apertium
+
+Requirements
+============
+- 1x human to install and the program (the more, the better).
+- 1x computer with Unix (TM) based OS.
+
+Installation
+============
+- chmod +x install.sh
+- ./install.sh
+- gapertium
